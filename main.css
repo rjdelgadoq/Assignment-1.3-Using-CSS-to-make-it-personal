@@ -1,0 +1,21 @@
+body {
+   background-color: black;
+   font-family: 'Times New Roman', Times, serif;
+   color: red;
+   font-size:large;
+   }
+   div {
+      height:6000px;
+      width:200px;
+      float:left;
+      padding:5px;
+      line-height:30px;
+   }
+footer adress {
+   text-align:center;
+   margin: right 10px;
+   color:grey;
+}
+#memeimage {
+   margin: right 200px;
+}
